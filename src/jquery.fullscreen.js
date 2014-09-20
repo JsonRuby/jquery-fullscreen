@@ -15,6 +15,7 @@
           },options); 
          
         var elem=this[0];
+        
         if(s.isFullScreen){
          	if (elem.requestFullscreen) {
 			   elem.requestFullscreen();
